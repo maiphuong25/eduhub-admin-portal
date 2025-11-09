@@ -1,4 +1,4 @@
-# eduhub-admin
+# EDUHUB-admin
 🎓 EduHub – Online Course Management Platform (Admin Panel)
 
 EduHub là hệ thống quản lý khóa học trực tuyến hiện đại, được thiết kế dành riêng cho quản trị viên (Admin) nhằm hỗ trợ việc kiểm soát, vận hành và đảm bảo chất lượng nội dung học tập trên nền tảng.
